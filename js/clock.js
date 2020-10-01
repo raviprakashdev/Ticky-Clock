@@ -30,3 +30,14 @@ document.getElementById("clock").style.top=tt;
 setTimeout(cloky,1000);
 }
 cloky();
+
+$(document).click(clickAnim);
+
+function clickAnim(){
+    $("h1").addClass("head");
+     setTimeout(function () {
+        $("h1").removeClass("head");
+
+     }, 1000);
+
+}
