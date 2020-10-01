@@ -12,3 +12,13 @@ html ,body
     margin-top:-35px; 
     text-align: center;
 }
+h1{
+    color: #fff;
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.head{
+    font-family: 'Fjalla One', sans-serif;
+    color:#fff;
+}
