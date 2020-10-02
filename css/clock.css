@@ -3,11 +3,11 @@ html ,body
     height: 100%;
 }
 #clock{
-    /* background-color: blueviolet; */
-    color: #fff;
+    /* background-color: royalblue; */
+    color: #4169E1;
     font-family: 'Bungee Shade', cursive;
 /*     font-size: 70px; */
-    font-size: 90px;
+    font-size: 95px;
     /* position: relative; */
     /* top: 50%; */
     margin-top:-35px; 
